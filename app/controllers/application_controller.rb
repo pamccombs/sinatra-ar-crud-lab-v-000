@@ -20,7 +20,9 @@ class ApplicationController < Sinatra::Base
     
   end
   
-  get 
+  get '/articles/:id' do
+    
+  end
   
   
 end
