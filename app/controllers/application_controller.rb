@@ -20,5 +20,7 @@ class ApplicationController < Sinatra::Base
     
   end
   
+  get 
+  
   
 end
